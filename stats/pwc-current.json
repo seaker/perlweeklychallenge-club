@@ -9,6 +9,16 @@
                [
                   "Perl",
                   2
+               ]
+            ],
+            "id" : "Abigail",
+            "name" : "Abigail"
+         },
+         {
+            "data" : [
+               [
+                  "Perl",
+                  2
                ],
                [
                   "Blog",
@@ -23,10 +33,48 @@
                [
                   "Raku",
                   2
+               ],
+               [
+                  "Blog",
+                  1
+               ]
+            ],
+            "id" : "Arne Sommer",
+            "name" : "Arne Sommer"
+         },
+         {
+            "data" : [
+               [
+                  "Raku",
+                  2
                ]
             ],
             "id" : "Asher Harvey-Smith",
             "name" : "Asher Harvey-Smith"
+         },
+         {
+            "data" : [
+               [
+                  "Perl",
+                  2
+               ],
+               [
+                  "Raku",
+                  2
+               ]
+            ],
+            "id" : "Athanasius",
+            "name" : "Athanasius"
+         },
+         {
+            "data" : [
+               [
+                  "Perl",
+                  2
+               ]
+            ],
+            "id" : "Bob Lied",
+            "name" : "Bob Lied"
          },
          {
             "data" : [
@@ -69,6 +117,38 @@
                   2
                ],
                [
+                  "Raku",
+                  2
+               ],
+               [
+                  "Blog",
+                  1
+               ]
+            ],
+            "id" : "Jaldhar H. Vyas",
+            "name" : "Jaldhar H. Vyas"
+         },
+         {
+            "data" : [
+               [
+                  "Perl",
+                  2
+               ],
+               [
+                  "Blog",
+                  1
+               ]
+            ],
+            "id" : "Jorg Sommrey",
+            "name" : "Jorg Sommrey"
+         },
+         {
+            "data" : [
+               [
+                  "Perl",
+                  2
+               ],
+               [
                   "Blog",
                   1
                ]
@@ -93,18 +173,22 @@
                   2
                ]
             ],
-            "id" : "Matt Martini",
-            "name" : "Matt Martini"
+            "id" : "Matthew Neleigh",
+            "name" : "Matthew Neleigh"
          },
          {
             "data" : [
                [
                   "Perl",
                   2
+               ],
+               [
+                  "Blog",
+                  1
                ]
             ],
-            "id" : "Matthew Neleigh",
-            "name" : "Matthew Neleigh"
+            "id" : "Matthias Muth",
+            "name" : "Matthias Muth"
          },
          {
             "data" : [
@@ -191,6 +275,10 @@
                [
                   "Raku",
                   2
+               ],
+               [
+                  "Blog",
+                  1
                ]
             ],
             "id" : "Roger Bell_West",
@@ -209,16 +297,6 @@
             ],
             "id" : "Simon Green",
             "name" : "Simon Green"
-         },
-         {
-            "data" : [
-               [
-                  "Perl",
-                  1
-               ]
-            ],
-            "id" : "Steven Wilson",
-            "name" : "Steven Wilson"
          },
          {
             "data" : [
@@ -291,13 +369,33 @@
          "colorByPoint" : 1,
          "data" : [
             {
+               "drilldown" : "Abigail",
+               "name" : "Abigail",
+               "y" : 2
+            },
+            {
                "drilldown" : "Ali Moradi",
                "name" : "Ali Moradi",
                "y" : 3
             },
             {
+               "drilldown" : "Arne Sommer",
+               "name" : "Arne Sommer",
+               "y" : 3
+            },
+            {
                "drilldown" : "Asher Harvey-Smith",
                "name" : "Asher Harvey-Smith",
+               "y" : 2
+            },
+            {
+               "drilldown" : "Athanasius",
+               "name" : "Athanasius",
+               "y" : 4
+            },
+            {
+               "drilldown" : "Bob Lied",
+               "name" : "Bob Lied",
                "y" : 2
             },
             {
@@ -316,6 +414,16 @@
                "y" : 2
             },
             {
+               "drilldown" : "Jaldhar H. Vyas",
+               "name" : "Jaldhar H. Vyas",
+               "y" : 5
+            },
+            {
+               "drilldown" : "Jorg Sommrey",
+               "name" : "Jorg Sommrey",
+               "y" : 3
+            },
+            {
                "drilldown" : "Lubos Kolouch",
                "name" : "Lubos Kolouch",
                "y" : 3
@@ -326,14 +434,14 @@
                "y" : 2
             },
             {
-               "drilldown" : "Matt Martini",
-               "name" : "Matt Martini",
-               "y" : 2
-            },
-            {
                "drilldown" : "Matthew Neleigh",
                "name" : "Matthew Neleigh",
                "y" : 2
+            },
+            {
+               "drilldown" : "Matthias Muth",
+               "name" : "Matthias Muth",
+               "y" : 3
             },
             {
                "drilldown" : "mauke",
@@ -368,17 +476,12 @@
             {
                "drilldown" : "Roger Bell_West",
                "name" : "Roger Bell_West",
-               "y" : 4
+               "y" : 5
             },
             {
                "drilldown" : "Simon Green",
                "name" : "Simon Green",
                "y" : 3
-            },
-            {
-               "drilldown" : "Steven Wilson",
-               "name" : "Steven Wilson",
-               "y" : 1
             },
             {
                "drilldown" : "Thomas Kohler",
@@ -401,14 +504,14 @@
                "y" : 2
             }
          ],
-         "name" : "The Weekly Challenge - 380"
+         "name" : "The Weekly Challenge - 381"
       }
    ],
    "subtitle" : {
-      "text" : "[Champions: 22] Last updated at 2026-07-03 23:53:26 GMT"
+      "text" : "[Champions: 27] Last updated at 2026-07-12 23:20:14 GMT"
    },
    "title" : {
-      "text" : "The Weekly Challenge - 380"
+      "text" : "The Weekly Challenge - 381"
    },
    "tooltip" : {
       "followPointer" : 1,
